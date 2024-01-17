@@ -2,6 +2,7 @@
   "name": "system_login",
   "private": true,
   "version": "0.0.0",
+  "author": "Samuel Jorge Matheus",
   "type": "module",
   "scripts": {
     "dev": "vite",
